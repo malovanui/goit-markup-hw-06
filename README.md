@@ -1,2 +1,2 @@
-# goit-markup-hw-06
-home work #6
+# goit-markup-hw-01
+Домашнє завдання 1. Модуль 1: Основи HTML
